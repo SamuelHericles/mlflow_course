@@ -1,0 +1,23 @@
+Model: "sequential_62"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_209 (Dense)           (None, 32)                25120     
+                                                                 
+ dropout_147 (Dropout)       (None, 32)                0         
+                                                                 
+ dense_210 (Dense)           (None, 32)                1056      
+                                                                 
+ dropout_148 (Dropout)       (None, 32)                0         
+                                                                 
+ dense_211 (Dense)           (None, 32)                1056      
+                                                                 
+ dropout_149 (Dropout)       (None, 32)                0         
+                                                                 
+ dense_212 (Dense)           (None, 10)                330       
+                                                                 
+=================================================================
+Total params: 27,562
+Trainable params: 27,562
+Non-trainable params: 0
+_________________________________________________________________

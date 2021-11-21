@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/samue/Desktop/libary/courses/UDEMY/mlflow/02.Notebooks/mlruns/3/99736d1db1bf4d5ba064a2f2a84230bb/artifacts
+end_time: 1637509536262
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: 99736d1db1bf4d5ba064a2f2a84230bb
+run_uuid: 99736d1db1bf4d5ba064a2f2a84230bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637509487190
+status: 3
+tags: []
+user_id: samue
